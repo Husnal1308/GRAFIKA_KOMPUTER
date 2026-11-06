@@ -3,7 +3,7 @@
 ## Praktikum Lingkaran
 [Praktikum Lingkaran](PraktikumLinkaran.py)
 
-![Hasil Praktikum Lingkaran](Gambar/hasillingkaran1.png)
+![Hasil Praktikum Lingkaran](Gambar/hasilllingkaran1.png)
 
 [Tugas Praktikum Lingkaran](TugasPraktikumLinkaran.py)
 
